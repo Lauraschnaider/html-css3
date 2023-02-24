@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+#container {
+    background-color: darkcyan;
+    width: 400px;
+    height: 400px;
+
+}
+.c1 {
+    background-color: rgb(188, 122, 221);
+  
+
+}
+span {
+    background-color: aqua;
+}
+p {
+    background-color: blue;
+}
